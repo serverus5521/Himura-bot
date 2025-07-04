@@ -79,5 +79,5 @@ Scan the QR code using WhatsApp Web on your phone. Done.
 
 ## 🤝 Autor
 
-Creado por [Tu Nombre o Alias].  
+Creado por [serverus].  
 Colabora, mejora o adapta este proyecto como gustes.
