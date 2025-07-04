@@ -1,0 +1,17 @@
+
+{
+  "name": "tokyo-himura-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp con hentai, stickers, música, audio y +18",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-fetch": "^2.6.7",
+    "ytdl-core": "^4.11.1",
+    "@google-cloud/text-to-speech": "^4.2.0"
+  }
+}
